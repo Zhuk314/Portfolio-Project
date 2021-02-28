@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(white, #B8BBBE);
+}
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+input[type=text]:focus {
+    background-color: #C69A67;
+}
+
+
+input[type=text]:hover {
+    background-color: #D8AC79;
+}
+
+#placeWeMet, #emailFormat {
+    display: none;
+}
